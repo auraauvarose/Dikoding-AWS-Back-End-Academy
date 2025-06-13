@@ -41,3 +41,4 @@ const isComplete = false; // Nilai boolean false
 const isGreater = 10 > 5; // Hasilnya adalah true
 console.log(isGreater); // Output: true
 
+ 
